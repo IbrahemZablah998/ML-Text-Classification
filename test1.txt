@@ -1,0 +1,3 @@
+Computer Terminal makes computer generated labels, forms,
+tags and ticket printers and terminals.
+
